@@ -1,0 +1,10 @@
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\bin\Release\netstandard2.0\GI.Common.XF.deps.json
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\bin\Release\netstandard2.0\GI.Common.XF.dll
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\bin\Release\netstandard2.0\GI.Common.XF.pdb
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\obj\Release\netstandard2.0\GI.Common.XF.csprojAssemblyReference.cache
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\obj\Release\netstandard2.0\GI.Common.XF.csproj.CoreCompileInputs.cache
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\obj\Release\netstandard2.0\GI.Common.XF.AssemblyInfoInputs.cache
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\obj\Release\netstandard2.0\GI.Common.XF.AssemblyInfo.cs
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\obj\Release\netstandard2.0\XamlC.stamp
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\obj\Release\netstandard2.0\GI.Common.XF.dll
+C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\obj\Release\netstandard2.0\GI.Common.XF.pdb

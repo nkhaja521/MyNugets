@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GI.Common.XF</id>
+    <version>1.0.14</version>
+    <authors>Nick Khaja</authors>
+    <owners>Nick Khaja</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>XF commons library</description>
+    <copyright>General Informatics</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.IdentityModel.Clients.ActiveDirectory" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+        <dependency id="Xam.Plugin.Geolocator" version="4.5.0.6" exclude="Build,Analyzers" />
+        <dependency id="Xam.Plugin.Media" version="4.0.1.5" exclude="Build,Analyzers" />
+        <dependency id="Xam.Plugins.Settings" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="3.3.0.967583" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms.Maps" version="3.3.0.967583" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\GIProjects2017\365 Tools\Common\GI.Common.XF\GI.Common.XF\bin\Release\netstandard2.0\GI.Common.XF.dll" target="lib\netstandard2.0\GI.Common.XF.dll" />
+  </files>
+</package>
